@@ -33,7 +33,7 @@ The GODLEVEL9 Reserve Authority is a sovereign, multi-jurisdictional reserve ban
 - GitBook: [vault.gitbook.io/godlevel9](https://vault.gitbook.io/godlevel9)
 - CoinMarketCap: Coming Soon
 - CoinGecko: Coming Soon
-- NFTify: [vault.nftify.store](godlevel9drop.nftify.network)
+- NFTify: [godlevel9drop.nftify.network](godlevel9drop.nftify.network)
 - Reserve Audit: In progress (PwC + Community DAO Watch)
 
 ---
